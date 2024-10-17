@@ -8,10 +8,15 @@ ini adalah paragraf
 
 link [pinterest](https://id.pinterest.com/)
 
-image ![ini-cartoon](https://pin.it/3BpqNnnBK "gambar pinterest")
+image ![ini-cartoon](https://github.com/davinalifianda123/skills-communicate-using-markdown/blob/main/pcc-logo_FIX.png)
 
 ```python
 print("hello world")
 ```
+list 
+* hello
+
+list numor
+1. hwllo
 
 
